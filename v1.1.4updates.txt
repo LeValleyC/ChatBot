@@ -1,0 +1,12 @@
++ “Stupid-Proofed” selection screen
++ reconfigured findKeyword methods for smoother recognition
++ added Frosh, Jv, and Varsity rosters
++ implemented output.txt to log user responses for future use
++ added more variations to findKeyword statements
++ small fixes to selection screen 
+  (changed thread.sleep from 2.5 seconds to 1.5)
++ added a “can I” transform statement
++ added more random responses
++ added a help option by typing “help”
++ added a tips bar to the top of the soccer chatbot
+
